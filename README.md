@@ -36,29 +36,3 @@ OOSD/
                 ├── ChiTietPhieuMuon.cs
                 └── PhieuPhat.cs
 ```
-
----
-
-## 3. Nội dung bài tập Chương 01 (Quản lý Thư viện)
-
-- **Đề tài:** Hệ thống Quản lý Mượn Trả Sách (Library Management).
-- **Yêu cầu 1:** Viết 5 User Stories đủ 3 vai trò (Sinh viên, Thủ thư, Admin) kèm tiêu chí nghiệm thu dạng Given/When/Then.
-- **Yêu cầu 2:** Thiết kế sơ đồ lớp gồm 5 Class có khóa ngoại (`[FK]`) và mối quan hệ giữa các thực thể.
-- **Yêu cầu 3:** Cài đặt 5 Domain Class tuân thủ nguyên lý Đóng gói (Encapsulation): thuộc tính `private set`, constructor `private`, Factory Method `Create()` có kiểm tra hợp lệ dữ liệu.
-- **Yêu cầu 4:** File `Program.cs` chạy mô phỏng đầy đủ các luồng nghiệp vụ và in bảng báo cáo tổng kết ra console.
-
----
-
-## 4. Hướng dẫn chạy dự án
-
-Yêu cầu máy cài đặt [.NET SDK 10](https://dotnet.microsoft.com/).
-
-```bash
-# Di chuyển vào thư mục dự án
-cd BAI_TAP/CH01/Ch01.Console
-
-# Chạy ứng dụng console
-dotnet run
-```
-
-*(Hoặc chạy trực tiếp từ thư mục gốc: `dotnet run --project BAI_TAP/CH01/Ch01.Console`)*
