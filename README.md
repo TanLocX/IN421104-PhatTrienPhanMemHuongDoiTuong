@@ -9,8 +9,7 @@ Repository lưu trữ các bài tập thực hành môn học **Object-Oriented 
 - **Họ và tên:** Nguyễn Tấn Lộc
 - **Mã số sinh viên (MSSV):** 0024417501
 - **GitHub:** [TanLocX](https://github.com/TanLocX)
-- **Email:** locnguyenwtf@gmail.com
-- **Nhánh bài làm hiện tại:** `ch01/0024417501`
+
 
 ---
 
