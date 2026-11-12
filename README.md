@@ -19,5 +19,6 @@ OOSD/
 ├── README.md                    # Giới thiệu bản thân và tổng quan dự án
 └── BAI_TAP/
     ├── CH01/                    # Bài tập Chương 01: Phân tích yêu cầu & Domain Modeling
-    └── CH02/                    # Bài tập Chương 02: Refactoring với SOLID & Design Patterns
+    ├── CH02/                    # Bài tập Chương 02: Refactoring với SOLID & Design Patterns
+    └── CH03/                    # Bài tập Chương 03: Clean Architecture & REST API cơ bản
 ```
